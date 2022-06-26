@@ -55,3 +55,20 @@ if(num3>maximum)
 }
 Console.WriteLine("Max number is " + maximum);
 */
+
+/*
+ZADACHA 003 HW
+int num1;
+
+Console.Write("Input a number: ");
+num1 = Convert.ToInt32(Console.ReadLine());
+
+if(num1 % 2 == 0)
+{
+Console.WriteLine("Четное число");
+}
+else
+{
+Console.WriteLine("Нечетное число");
+}
+*/
