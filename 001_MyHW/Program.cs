@@ -1,7 +1,7 @@
 ﻿
 
 /*
-ZADACHA 001 HW
+//ZADACHA 001 HW
 
 int num1, num2;
 
@@ -30,7 +30,7 @@ else
 */
 
 /*
-ZADACHA 002 HW
+//ZADACHA 002 HW
 
 int num1, num2, num3, maximum;
 
@@ -57,7 +57,7 @@ Console.WriteLine("Max number is " + maximum);
 */
 
 /*
-ZADACHA 003 HW
+//ZADACHA 003 HW
 int num1;
 
 Console.Write("Input a number: ");
@@ -71,4 +71,23 @@ else
 {
 Console.WriteLine("Нечетное число");
 }
+*/
+
+/*
+//ZADACHA 004 HW
+
+int number, current;
+
+Console.Write("Input a number: ");
+number = Convert.ToInt32(Console.ReadLine());
+
+current = 1;
+
+while(current <= number)
+{
+    if(current % 2 == 0)
+    Console.Write(current + " ");
+    current++;
+}
+
 */
