@@ -81,7 +81,7 @@ ShowArray(array);
 /*
 //3Zadacha
 
-  Console.Write("Input size of array: ");
+Console.Write("Input size of array: ");
 int size = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input min possible value of elements: ");
 int min = Convert.ToInt32(Console.ReadLine());
