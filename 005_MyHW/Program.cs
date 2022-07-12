@@ -91,10 +91,9 @@ int maxVal = 0;
 
 for (int i = 0; i <= size; i++)
     {
-    if(array[i] > maxVal) maxVal = array[i];
+    if(i > maxVal) maxVal = array[i];
     }
 
-sum = maxVal - minVal;
 
 ShowArray(array);
 Console.WriteLine($"Total indexes is {size}, sum of numbers in not positive indexes is = {maxVal}and {minVal}");
