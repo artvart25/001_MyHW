@@ -78,23 +78,27 @@ for (int i = 0; i < size; i+=2)
 ShowArray(array);
 */
 
+/*
 //3Zadacha
 
-Console.Write("Input size of array: ");
+  Console.Write("Input size of array: ");
 int size = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input min possible value of elements: ");
+int min = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input max possible value of elements: ");
+int max = Convert.ToInt32(Console.ReadLine());
 
-int[]array = CreateArray(size);
+int[] array = CreateRandomArray(size, min, max);
+ShowArray(array);{
+    int maxVal = array[0];
+    int minVal = array[0];
 
-int sum = 0;
-int minVal = 0;
-int maxVal = 0;
-
-for (int i = 0; i <= size; i++)
+    for (int i = 0; i<array.Length; i++ )
     {
-    if(i > maxVal) maxVal = array[i];
+    if (maxVal < array[i]) maxVal = array[i];
+        if(minVal > array[i]) minVal = array[i];
     }
-
-
-ShowArray(array);
-Console.WriteLine($"Total indexes is {size}, sum of numbers in not positive indexes is = {maxVal}and {minVal}");
-
+    int Difference = maxVal - minVal;
+Console.WriteLine($"Difference of max {maxVal} and min {minVal} elements is: {Difference}");
+}
+*/
