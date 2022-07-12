@@ -1,0 +1,15 @@
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/005_MyHW.csproj.AssemblyReference.cache
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/005_MyHW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/005_MyHW.AssemblyInfoInputs.cache
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/005_MyHW.AssemblyInfo.cs
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/005_MyHW.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/GB1/005_MyHW/bin/Debug/net6.0/005_MyHW
+/Users/artem/Desktop/GB1/005_MyHW/bin/Debug/net6.0/005_MyHW.deps.json
+/Users/artem/Desktop/GB1/005_MyHW/bin/Debug/net6.0/005_MyHW.runtimeconfig.json
+/Users/artem/Desktop/GB1/005_MyHW/bin/Debug/net6.0/005_MyHW.dll
+/Users/artem/Desktop/GB1/005_MyHW/bin/Debug/net6.0/005_MyHW.pdb
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/005_MyHW.dll
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/refint/005_MyHW.dll
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/005_MyHW.pdb
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/005_MyHW.genruntimeconfig.cache
+/Users/artem/Desktop/GB1/005_MyHW/obj/Debug/net6.0/ref/005_MyHW.dll
