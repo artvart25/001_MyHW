@@ -1,5 +1,5 @@
 ﻿
-//массив random
+/*/массив random
 int[] CreateRandomArray(int size, int minValue, int maxValue)
 {
     int[] newArray = new int[size];
