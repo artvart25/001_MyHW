@@ -1,4 +1,4 @@
-﻿
+﻿/*
 int[] CreateArray(int size)
 {
     int[] newArray = new int[size];
