@@ -1,4 +1,4 @@
-﻿
+﻿/*
 int [,] CreateRandom2dArray(int rows, int columns, int minValue, int maxValue)
 {
     int[,] newArray = new int [rows, columns];
@@ -65,7 +65,7 @@ int SumElementsOfRows(int[,] array, int i)
     }
     return sumR;
 }
-
+*/
 /*
 //1
 Console.Write("Input number of rows: ");
